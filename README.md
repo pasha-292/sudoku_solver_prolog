@@ -1,1 +1,1 @@
-This is a simple project showing sudoku solvers: one 4x4 sudoku solver and another nxn generalised sudoku solver.
+This is a simple project showing sudoku solvers: one 4x4 sudoku solver, and another nxn generalised sudoku solver.
